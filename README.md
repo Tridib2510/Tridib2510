@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tridib Roy Chowdhury</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Unmesh+Ghosh;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib2510&label=Profile%20views&color=0e75b6&style=flat" alt="tridib2510" /> </p>
