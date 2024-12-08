@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Backend Projects.
 - ⚙️ I use daily: `.js`, `.java`
 - 💬 Ping me about **DSA**, **Backend Development**
-- 📫 How to reach me **tridibroychowdhury9@gmail.com**
+
 
 </td>
 <td width="50%" align="center">
