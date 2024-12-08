@@ -1,8 +1,22 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Tridib+Roy+Chowdhury;Welcome+to+my+profile!" alt="Title"></img>
 </div>
-<h3 align="center">A passionate backend developer from India</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
+- 🌱 I’m a Backend Developer`
+- 👯 I’m looking to collaborate with Backend and Fullstack Developers.
+- 🤔 I’m looking for help with Backend Projects.
+- ⚙️ I use daily: `.js`, `.java`,
+- 💬 Ping me about **DSA**, **Backend Development**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib2510&label=Profile%20views&color=0e75b6&style=flat" alt="tridib2510" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridib2510" alt="tridib2510" /></a> </p>
