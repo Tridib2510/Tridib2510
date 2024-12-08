@@ -8,9 +8,10 @@
 - 🌱 I’m a Backend Developer`
 - 👯 I’m looking to collaborate with Backend and Fullstack Developers.
 - 🤔 I’m looking for help with Backend Projects.
-- ⚙️ I use daily: `.js`, `.java`,
+- ⚙️ I use daily: `.js`, `.java`
 - 💬 Ping me about **DSA**, **Backend Development**
-
+- 📫 How to reach me **tridibroychowdhury9@gmail.com**
+- 
 </td>
 <td width="50%" align="center">
   <img align="left" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -21,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridib2510" alt="tridib2510" /></a> </p>
 
-- 📫 How to reach me **tridibroychowdhury9@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,12 +34,13 @@
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <h3 align="left">Languages and Tools:</h3>
+<p align="right"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a> </p>
 </p>
 <p><img align="left" src="https://leetcard.jacoblin.cool/tridib_2510?theme=dark&font=K2D&ext=heatmap" alt="tridib2510" /></p>
  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tridib2510&show_icons=true&locale=en" alt="tridib2510" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="right"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a> </p>
+
 
 
 
