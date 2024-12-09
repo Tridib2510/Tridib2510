@@ -7,7 +7,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🌱 I’m a Backend Developer`
+  - 🌱 I’m a Backend Developer`
   
 - 👯 I’m looking to collaborate with Backend and Fullstack Developers.
   
