@@ -8,9 +8,13 @@
 <tr border="none">
 <td width="50%" align="left">
 - 🌱 I’m a Backend Developer`
+  
 - 👯 I’m looking to collaborate with Backend and Fullstack Developers.
+- 
 - 🤔 I’m looking for help with Fullstack Projects.
+- 
 - ⚙️ I use daily: `.js`, `.java`
+- 
 - 💬 Ping me about **DSA**, **Backend Development**
 
 
