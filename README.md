@@ -14,7 +14,7 @@
   
 - 🤔 I’m looking for help with Fullstack Projects.
   
-- ⚙️ I use daily: `.js`, `.java`,`.py`
+- ⚙️ I use daily: `.js`, `.ts`, `.java`, `.py`
   
 - 💬 Ping me about **DSA**, **Backend Development**
 
