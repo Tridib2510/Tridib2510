@@ -8,9 +8,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m a Backend Developer .Currently learning Machine Learning`
+- 🌱 I’m a Fullstack Developer .Currently learning Machine Learning`
   
-- 👯 I’m looking to collaborate with Backend and Fullstack Developers.
+- 👯 I’m looking to collaborate with ML engineers and Fullstack Developers.
   
 - 🤔 I’m looking for help with Fullstack Projects.
   
