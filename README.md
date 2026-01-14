@@ -28,7 +28,7 @@
 </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib2510&label=Profile%20views&color=0e75b6&style=flat" alt="tridib2510" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridib2510" alt="tridib2510" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tridib2510" alt="Tridib2510" /></a> </p>
 
 
 
