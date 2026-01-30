@@ -26,11 +26,9 @@
 </td>
 </tr>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib2510&label=Profile%20views&color=0e75b6&style=flat" alt="tridib2510" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tridib2510" alt="Tridib2510" /></a> </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username="Tridib2510"&theme=darkhub" alt="Tridib2510" />
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=tridib2510&theme=dracula&column=11'>
 </p>
 
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
