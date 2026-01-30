@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m a Software Developer with expertise in Fullstack Dev, Data Science and Generative AI`
+- 🌱 I’m a Software Developer with expertise in Fullstack Dev, Data Science and Generative AI
   
 - 👯 I’m looking to collaborate with ML engineers and Fullstack Developers.
   
