@@ -30,18 +30,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tridib2510" alt="Tridib2510" /></a> </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tridib2510&theme=darkhub" alt="Tridib2510" />
+  <img src="https://github-profile-trophy.vercel.app/?username="Tridib2510"&theme=darkhub" alt="Tridib2510" />
 </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tridib2510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib2510&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-
-
 
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
