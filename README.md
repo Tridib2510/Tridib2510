@@ -31,6 +31,19 @@
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=tridib2510&theme=dracula&column=11'>
 </p>
 
+<p align=left>
+<!-- <img algin='left' width='49.7%' src='https://github-readme-stats-fast.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tridib2510&count_private=true&show_icons=true&theme=dracula' />
+<!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
+<img algin='right' width='49.7%' src='https://github-readme-stats-fast.vercel.app/api/streak?username=tridib2510&theme=dracula' />
+<!-- <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula' /> -->
+</p>
+
+<img align='left' src='https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tridib2510&theme=dracula&langs_count=25' />
+<!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=25' /> -->
+<!-- <img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=25' /> -->
+<!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
+
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/tridib_2510/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
