@@ -35,11 +35,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tridib roy chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tridib roy chowdhury" height="70" width="70" /></a>
-<a href="https://www.leetcode.com/tridib_2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tridib_2510" height="70" width="70" /></a>
-</p>
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tridib2510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib2510&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
 
 
 
