@@ -33,13 +33,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=tridib2510&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tridib2510&theme=dracula&langs_count=10&layout=compact" alt="Top Languages" />
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=tridib2510&theme=dracula" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tridib2510&theme=dracula&langs_count=10&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
