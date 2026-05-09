@@ -11,7 +11,7 @@
 - 🌱 Software Developer with expertise in **Fullstack Dev**, **Data Science**, and **Generative AI**
 - 👯 Looking to collaborate with ML engineers and Fullstack Developers
 - ⚙️ Daily stack: `.js` `.ts` `.java` `.py` `.ipynb`
-- 💬 Ping me about **DSA** and **Backend Development**
+- 💬 Ping me about **Fullstack Development**, **Machine Learning**, **Agentic AI**, **GenAI**, **CP** 
 
 </td>
 <td width="50%" align="center">
